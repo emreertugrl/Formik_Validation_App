@@ -24,5 +24,29 @@ This project demonstrates a simple form validation system using **React**, **For
 
 1. Clone the repository:
    ```bash
-   git clone [your-repo-link]
+   git clone https://github.com/emreertugrl/Formik_Validation_App.git
    ```
+2. Navigate to the project directory:
+
+   ```bash
+   cd Formik_Validation_App
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- Email: emreertugrl7@gmail.com
+- LinkedIn: [emreertugrul7](https://www.linkedin.com/in/emreertugrul7/)
